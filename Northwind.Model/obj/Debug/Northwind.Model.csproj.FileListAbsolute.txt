@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\CodeFirstNorthwind\Northwind.Model\obj\Debug\Northwind.Model.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CodeFirstNorthwind\Northwind.Model\obj\Debug\Northwind.Model.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CodeFirstNorthwind\Northwind.Model\bin\Debug\Northwind.Model.dll.config
+C:\Users\HP\source\repos\CodeFirstNorthwind\Northwind.Model\bin\Debug\Northwind.Model.dll
+C:\Users\HP\source\repos\CodeFirstNorthwind\Northwind.Model\bin\Debug\Northwind.Model.pdb
+C:\Users\HP\source\repos\CodeFirstNorthwind\Northwind.Model\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\CodeFirstNorthwind\Northwind.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\CodeFirstNorthwind\Northwind.Model\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\CodeFirstNorthwind\Northwind.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\CodeFirstNorthwind\Northwind.Model\obj\Debug\Northwind.Model.csproj.CopyComplete
+C:\Users\HP\source\repos\CodeFirstNorthwind\Northwind.Model\obj\Debug\Northwind.Model.dll
+C:\Users\HP\source\repos\CodeFirstNorthwind\Northwind.Model\obj\Debug\Northwind.Model.pdb
